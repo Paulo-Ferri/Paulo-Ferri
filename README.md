@@ -1,8 +1,8 @@
 ### Hey there! I'm Paulo Afonso, Full Stack developer student!
 ##
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Ferri&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ferri&layout=compact&langs_count=7&theme=cobalt2"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Ferri&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ferri&layout=compact&langs_count=7&theme=cobalt2"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML icon height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
